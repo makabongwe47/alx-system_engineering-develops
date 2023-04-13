@@ -1,1 +1,1 @@
-Read me showing a contents list for my current directory
+ Changing working directory to user's home directory
