@@ -1,1 +1,1 @@
-My first read me showing my current working directory
+Read me showing a contents list for my current directory
