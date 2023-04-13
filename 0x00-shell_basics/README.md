@@ -1,1 +1,1 @@
- Create a directory in the existing directory
+Creating new directory in an existing directory
