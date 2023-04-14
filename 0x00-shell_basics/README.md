@@ -1,1 +1,1 @@
-Determine type of file that is in a directory
+Determine the type of fil that is within a directory
