@@ -1,1 +1,1 @@
-Print what type of file is in a directory
+Determine type of file that is in a directory
