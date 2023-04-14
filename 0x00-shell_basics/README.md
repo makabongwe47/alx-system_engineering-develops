@@ -1,1 +1,1 @@
-List all files in current working directory, parent directory, /boot directory all in long format
+Print what type of file is in a directory
