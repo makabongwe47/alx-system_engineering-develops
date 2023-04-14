@@ -1,1 +1,1 @@
-Create the directories welcome/to/school
+List all files and directories adhering to certain guidelines
