@@ -1,1 +1,1 @@
-Delete all files ending with a ~ character
+Create the directories welcome/to/school
