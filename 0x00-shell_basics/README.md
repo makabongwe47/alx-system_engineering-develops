@@ -1,1 +1,1 @@
-Copy all HTML files
+Create HTML files
