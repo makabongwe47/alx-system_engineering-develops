@@ -1,1 +1,1 @@
-Create symbolic link in current working directory
+Create a symbolic link in the working directory
