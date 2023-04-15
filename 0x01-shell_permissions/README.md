@@ -1,1 +1,1 @@
-Change owner and group owner for all the files
+Change owner and group owner
