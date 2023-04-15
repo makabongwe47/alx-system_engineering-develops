@@ -1,1 +1,1 @@
-Add execution permission to the owner, group owner and the other users
+Set a number of permissions to the file
