@@ -1,1 +1,1 @@
-Play the StarWars IV in the terminal
+change the owner of the file to the user
