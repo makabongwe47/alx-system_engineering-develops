@@ -1,1 +1,1 @@
-Add execute permission to all subdirectories
+Change group owner
