@@ -1,1 +1,1 @@
-Write a script that prints the results of a specific command in another file
+Create a file that has a file name containg special characters
