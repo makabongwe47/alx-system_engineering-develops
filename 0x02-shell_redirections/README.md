@@ -1,1 +1,1 @@
-Create a file that has a file name containg special characters
+Create a file that has a name that contains special caharacters
