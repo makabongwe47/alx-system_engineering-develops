@@ -1,1 +1,1 @@
-Display the third line of a file
+Write a script that prints the results of a specific command in another file
