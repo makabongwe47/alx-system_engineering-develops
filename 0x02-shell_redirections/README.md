@@ -1,1 +1,1 @@
-Writing a script that prints text
+Display the character of a confused smiley
