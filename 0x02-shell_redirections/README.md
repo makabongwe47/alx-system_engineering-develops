@@ -1,1 +1,1 @@
-A script that removes all the lettrs C and c from the input
+ Write a command that finds all empty files an directories an all subdirectories
