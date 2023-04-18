@@ -1,1 +1,1 @@
-A script that displays all users and their hom directories sorted by the user
+A script that removes all the lettrs C and c from the input
