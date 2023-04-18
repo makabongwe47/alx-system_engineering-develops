@@ -1,1 +1,1 @@
-A script that duplicates the last line of a file
+ Delete in all files that have a particular file extension
