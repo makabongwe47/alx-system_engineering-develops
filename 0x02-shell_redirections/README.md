@@ -1,1 +1,1 @@
- Display the number of lines that contain a pattern in a file
+ Displaying lines that contain a pattern and 3 lines after them
