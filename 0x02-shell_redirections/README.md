@@ -1,1 +1,1 @@
-A script that reverses its input
+Displays all users and the home directories sorted by users
