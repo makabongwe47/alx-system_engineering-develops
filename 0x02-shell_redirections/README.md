@@ -1,1 +1,1 @@
- Delete in all files that have a particular file extension
+Script that counts the number of directories and number of sub-directories
