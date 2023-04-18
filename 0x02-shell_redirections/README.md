@@ -1,1 +1,1 @@
-Create a file that has a name that contains special caharacters
+A script that duplicates the last line of a file
