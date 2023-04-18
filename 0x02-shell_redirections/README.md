@@ -1,1 +1,1 @@
-Display lines in a file that do not contain a pattern
+Replace all characters a and c with z and e respectively
