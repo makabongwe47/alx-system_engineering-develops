@@ -1,1 +1,1 @@
- Displaying lines that contain a pattern and 3 lines after them
+Display lines in a file that do not contain a pattern
