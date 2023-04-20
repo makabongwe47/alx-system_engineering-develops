@@ -1,1 +1,1 @@
-Create a script that denotes acrostics that use a first letter for each line
+A script that lists all the files with a .gif extension in the current directory and all its sub-directories
